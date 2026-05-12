@@ -187,3 +187,4 @@ Link it to the same Sheet. Zero data entry for you.
 ## License
 
 MIT – build freely, sell openly.
+Commit changes
